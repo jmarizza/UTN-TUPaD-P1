@@ -86,7 +86,7 @@ El proyecto está acompañado por una documentación en PDF donde se detalla:
 - Metodología aplicada
 - Resultados de pruebas
 - Conclusiones y bibliografía
-- Link al video: https://www.loom.com/share/adace21185f24ac4983cc122da714444?sid=a0c252e8-369e-4956-96fc-a553ff496f7f
+- Link al video: https://www.loom.com/share/b2e71de1fba3466f8a3dd84f219414dc?sid=bd252982-b33b-44ad-a3e5-2988e61c76ce
 ---
 
 ## Recursos utilizados
